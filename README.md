@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola, soy José Angel!<br><br>Soy un joven apasionado por la tecnología y el desarrollo de software. Siempre estoy buscando nuevas formas de aprender y crecer en este campo. Me encanta explorar las últimas tendencias y tecnologías para mantenerme actualizado y mejorar mis habilidades.<br><br>Mi lenguaje de programación favorito es JavaScript, con el que disfruto creando aplicaciones interactivas y dinámicas. También tengo experiencia en Laravel, un poderoso framework de PHP, que me permite desarrollar aplicaciones web de manera eficiente. Además, tengo conocimientos básicos de Python, lo que me ha permitido adentrarme en el mundo de la Intelegencia Artificial con OpenCv, Pytesseract y modelos de detección.<br><br>
-
+Hello, I'm José Angel!<br><br>I'm a young man passionate about technology and software development. I'm always looking for new ways to learn and grow in this field. I love exploring the latest trends and technologies to keep myself up to date and improve my skills.<br><br>My favorite programming language is JavaScript, with which I create interactive and dynamic applications. I also have experience in Laravel. In addition, I have basic-intermediate knowledge of Python, which has allowed me to enter the world of Artificial Intelligence with OpenCv, Pytesseract and detection models.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-garces-07617227b) 
